@@ -11,10 +11,10 @@ This study intends to focus on whether the heuristic tomato category has value, 
 Do fully-informed consumers respond to heuristics? 
 
 ## The Main Takeaways
-+ No presence of perfect manipulation 
++ No presence of perfect manipulation. 
   
-+ Nothing else changing at the cutoff
++ Nothing else changing at the cutoff.
 
-+ Most of the estimates weren’t very significant
++ Most of the estimates weren’t very significant.
 
 ---
