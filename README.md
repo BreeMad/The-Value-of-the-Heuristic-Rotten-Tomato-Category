@@ -1,20 +1,46 @@
 # The Value of the Heuristic Rotten Tomato Category
 
-![Company Logo](https://github.com/BreeMad/The-Value-of-the-Heuristic-Rotten-Tomato-Category/blob/main/opening_weekend.jpg)
-
-Photo by <a href="https://unsplash.com/@pipe_fx?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Felipe Bustillo</a> on <a href="https://unsplash.com/photos/2-women-sitting-on-blue-leather-chair-holding-white-and-red-plastic-cups-4VDRCoNuvE0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
 ## Objective
-This study intends to focus on whether the heuristic tomato category has value, even when consumers are fully informed when it comes to opening weekend box office revenues. In theory they shouldn’t.
+Provide a clear, data-driven view of sales performance for a B2B computer hardware company by analyzing sales pipeline data from Maven Analytics.
+This dashboard helps business stakeholders:
 
-## Research Question
-Do fully-informed consumers respond to heuristics? 
++ Monitor key sales KPIs
 
-## The Main Takeaways
-+ No presence of perfect manipulation. 
-  
-+ Nothing else changing at the cutoff.
++ Identify top and underperforming agents and teams
 
-+ Most of the estimates weren’t very significant.
++ Evaluate product-level win rates
+
++ Track quarter-over-quarter revenue trends
+
+## Key Business Questions
++ How is each sales team performing compared to the rest?
+
++ Are any sales agents lagging behind?
+
++ Are there any quarter-over-quarter trends in revenue or win rates?
+
++ Do any products have better win rates?
+
++ Where is revenue concentrated (accounts, agents, regions, sectors)?
+
++ How efficient are sales processes (deal size vs. sales cycle time)?
+
+## Recommendations
++ Focus coaching and resources on underperforming agents to close performance gaps.
+
++ Prioritize high-performing products with higher win rates to increase overall conversion.
+
++ Investigate teams or regions with longer average sales cycles to improve efficiency.
+
++ Use the dashboard regularly to monitor revenue concentration and reduce risk from overreliance on a small number of accounts or agents.
+
+## Tools and Techniques
++ Power BI: Data modeling, relationships, DAX measures, interactive visuals
+
++ DAX: Created measures for revenue, win rate, average deal size, average sales cycle days, and quarter-over-quarter growth
+
++ Data Modeling: Connected multiple tables (accounts, products, sales pipeline, sales agents) into a star schema
+
++ Interactive Features: Dynamic slicers (manager, region, sector), drill-throughs, performance commentary
 
 ---
